@@ -1,0 +1,29 @@
+1.00
+18
+0, 0, 1, 0, 0, 2500, inParm1.txt
+1, 0, 1, 0, 0, 6500, inParm2.txt
+2, 0, 1, 0, 0, 10000, inParm3.txt
+3, 0, 1, 0, 0, 2500, inParm4.txt
+4, 0, 1, 0, 0, 6500, inParm5.txt
+5, 0, 1, 0, 0, 10000, inParm6.txt
+6, 2, 0, 0, 0, 2500, inParm7.txt
+7, 2, 0, 0, 0, 6500, inParm8.txt
+8, 2, 0, 0, 0, 10000, inParm9.txt
+9, 0, 1, 0, 0, 430, inParm10.txt
+10, 0, 1, 0, 0, 1000, inParm11.txt
+11, 0, 1, 0, 0, 4000, inParm12.txt
+12, 2, 2, 10, 0, 2500, inParm13.txt
+12, 2, 5, 10, 1, 2500, inParm13.txt
+12, 0, 5, 10, 2, 2500, inParm1.txt
+12, 0, 2, 10, 3, 2500, inParm1.txt
+13, 2, 2, 10, 0, 6500, inParm14.txt
+13, 2, 5, 10, 1, 6500, inParm14.txt
+13, 0, 5, 10, 2, 6500, inParm2.txt
+13, 0, 2, 10, 3, 6500, inParm2.txt
+14, 2, 2, 10, 0, 10000, inParm15.txt
+14, 2, 5, 10, 1, 10000, inParm15.txt
+14, 0, 5, 10, 2, 10000, inParm3.txt
+14, 0, 2, 10, 3, 10000, inParm3.txt
+15, 0, 1, 0, 0, 2500, inParm16.txt
+16, 0, 1, 0, 0, 6500, inParm17.txt
+17, 0, 1, 0, 0, 10000, inParm18.txt
